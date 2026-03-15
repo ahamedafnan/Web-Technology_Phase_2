@@ -27,17 +27,17 @@ This website allows users to browse boarding place details, view profiles, regis
 ## Folder Structure
 UniFind/
 │
-├── css/
-├── images/
-├── js/
-├── browse.html
-├── contact.html
-├── details.html
-├── home.html
-├── index.html
-├── profile.html
-├── register.html
-└── report.html
+-css/
+-images/
+-js/
+-browse.html
+-contact.html
+-details.html
+-home.html
+-index.html
+-profile.html
+-register.html
+-report.html
 
 ## How to Run the Project
 1. Download or clone the repository
